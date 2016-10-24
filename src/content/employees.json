@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Lagos",
+      "value": 320
+    },
+    {
+      "name": "Abuja",
+      "value": 189
+    },
+    {
+      "name": "Port Harcourt",
+      "value": 101
+    },
+    {
+      "name": "Ogun",
+      "value": 90
+    },
+    {
+      "name": "Osun",
+      "value": 85
+    },
+    {
+      "name": "Edo",
+      "value": 60
+    },
+    {
+      "name": "Kaduna",
+      "value": 97
+    },
+    {
+      "name": "Oyo",
+      "value": 55
+    },
+    {
+      "name": "Plateau",
+      "value": 109
+    },
+    {
+      "name": "Sokoto",
+      "value": 121
+    }
+]
