@@ -25,10 +25,13 @@ You must develop a corporate dashboard application using a front-end MVC framewo
 - Dashboard components must query the datafiles regularly, or receive `“push”` updates, and update their displays in “near” real-time without requiring a refresh of the application.
 - App includes a build process. Assets are minimized and concatenated as appropriate.
 
-
-### How to Build, Test, Deploy
+### How to Build, Run, Deploy
 ```shell
 $ npm run build
+```
+To run the app:
+```shell
+$ npm start
 ```
 
 To deploy the app, run:
